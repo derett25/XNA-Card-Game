@@ -1,0 +1,587 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Resources\Card_back.png</Source>
+      <Name>Resources\Card_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Card_back.xnb</Output>
+      <Time>2017-09-02T20:42:12.3949132+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Card_placeholder.png</Source>
+      <Name>Resources\Card_placeholder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Card_placeholder.xnb</Output>
+      <Time>2017-09-10T04:27:45.850623+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Clubs_ace.png</Source>
+      <Name>Resources\Clubs_ace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Clubs_ace.xnb</Output>
+      <Time>2017-09-02T20:42:12.3979159+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Clubs_king.png</Source>
+      <Name>Resources\Clubs_king</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Clubs_king.xnb</Output>
+      <Time>2017-09-02T20:42:12.3999181+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Deck_back.png</Source>
+      <Name>Resources\Deck_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Deck_back.xnb</Output>
+      <Time>2017-09-02T20:42:12.4019206+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Diamonds_2.png</Source>
+      <Name>Resources\Diamonds_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Diamonds_2.xnb</Output>
+      <Time>2017-09-02T20:42:12.4039219+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Diamonds_ace.png</Source>
+      <Name>Resources\Diamonds_ace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Diamonds_ace.xnb</Output>
+      <Time>2017-09-02T20:42:12.4059232+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Diamonds_king.png</Source>
+      <Name>Resources\Diamonds_king</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Diamonds_king.xnb</Output>
+      <Time>2017-09-02T20:42:12.4079251+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Hearts_ace.png</Source>
+      <Name>Resources\Hearts_ace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Hearts_ace.xnb</Output>
+      <Time>2017-09-02T20:42:12.41293+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Hearts_king.png</Source>
+      <Name>Resources\Hearts_king</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Hearts_king.xnb</Output>
+      <Time>2017-09-02T20:42:12.4149322+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Spades_ace.png</Source>
+      <Name>Resources\Spades_ace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Spades_ace.xnb</Output>
+      <Time>2017-09-02T20:42:12.4169411+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Spades_king.png</Source>
+      <Name>Resources\Spades_king</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Spades_king.xnb</Output>
+      <Time>2017-09-02T20:42:12.4179346+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\cursor.png</Source>
+      <Name>Resources\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\cursor.xnb</Output>
+      <Time>2017-09-03T22:26:00.2541896+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\cursorClick.png</Source>
+      <Name>Resources\cursorClick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\cursorClick.xnb</Output>
+      <Time>2017-09-03T22:26:22.619378+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Clubs_10.png</Source>
+      <Name>Resources\Clubs_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Clubs_10.xnb</Output>
+      <Time>2017-09-02T20:42:12.3228442+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Clubs_2.png</Source>
+      <Name>Resources\Clubs_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Clubs_2.xnb</Output>
+      <Time>2017-09-02T20:42:12.3428653+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Clubs_3.png</Source>
+      <Name>Resources\Clubs_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Clubs_3.xnb</Output>
+      <Time>2017-09-02T20:42:12.3498709+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Clubs_4.png</Source>
+      <Name>Resources\Clubs_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Clubs_4.xnb</Output>
+      <Time>2017-09-02T20:42:12.3558769+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Clubs_5.png</Source>
+      <Name>Resources\Clubs_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Clubs_5.xnb</Output>
+      <Time>2017-09-02T20:42:12.3618814+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Clubs_6.png</Source>
+      <Name>Resources\Clubs_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Clubs_6.xnb</Output>
+      <Time>2017-09-02T20:42:12.3688891+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Clubs_7.png</Source>
+      <Name>Resources\Clubs_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Clubs_7.xnb</Output>
+      <Time>2017-09-02T20:42:12.375895+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Clubs_8.png</Source>
+      <Name>Resources\Clubs_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Clubs_8.xnb</Output>
+      <Time>2017-09-02T20:42:12.3829015+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Clubs_9.png</Source>
+      <Name>Resources\Clubs_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Clubs_9.xnb</Output>
+      <Time>2017-09-02T20:42:12.3899083+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Clubs_jack.png</Source>
+      <Name>Resources\Clubs_jack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Clubs_jack.xnb</Output>
+      <Time>2017-09-02T20:42:12.3288499+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Clubs_queen.png</Source>
+      <Name>Resources\Clubs_queen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Clubs_queen.xnb</Output>
+      <Time>2017-09-02T20:42:12.3368578+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Diamonds_10.png</Source>
+      <Name>Resources\Diamonds_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Diamonds_10.xnb</Output>
+      <Time>2017-09-02T20:42:12.3218437+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Diamonds_3.png</Source>
+      <Name>Resources\Diamonds_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Diamonds_3.xnb</Output>
+      <Time>2017-09-02T20:42:12.3478687+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Diamonds_4.png</Source>
+      <Name>Resources\Diamonds_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Diamonds_4.xnb</Output>
+      <Time>2017-09-02T20:42:12.3538738+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Diamonds_5.png</Source>
+      <Name>Resources\Diamonds_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Diamonds_5.xnb</Output>
+      <Time>2017-09-02T20:42:12.3598798+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Diamonds_6.png</Source>
+      <Name>Resources\Diamonds_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Diamonds_6.xnb</Output>
+      <Time>2017-09-02T20:42:12.3668863+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Diamonds_7.png</Source>
+      <Name>Resources\Diamonds_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Diamonds_7.xnb</Output>
+      <Time>2017-09-02T20:42:12.3748939+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Diamonds_8.png</Source>
+      <Name>Resources\Diamonds_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Diamonds_8.xnb</Output>
+      <Time>2017-09-02T20:42:12.3819007+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Diamonds_9.png</Source>
+      <Name>Resources\Diamonds_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Diamonds_9.xnb</Output>
+      <Time>2017-09-02T20:42:12.3879073+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Diamonds_jack.png</Source>
+      <Name>Resources\Diamonds_jack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Diamonds_jack.xnb</Output>
+      <Time>2017-09-02T20:42:12.3278491+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Diamonds_queen.png</Source>
+      <Name>Resources\Diamonds_queen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Diamonds_queen.xnb</Output>
+      <Time>2017-09-02T20:42:12.335857+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Hearts_10.png</Source>
+      <Name>Resources\Hearts_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Hearts_10.xnb</Output>
+      <Time>2017-09-02T20:42:12.3248464+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Hearts_2.png</Source>
+      <Name>Resources\Hearts_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Hearts_2.xnb</Output>
+      <Time>2017-09-02T20:42:12.3438643+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Hearts_3.png</Source>
+      <Name>Resources\Hearts_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Hearts_3.xnb</Output>
+      <Time>2017-09-02T20:42:12.3508717+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Hearts_4.png</Source>
+      <Name>Resources\Hearts_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Hearts_4.xnb</Output>
+      <Time>2017-09-02T20:42:12.3568777+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Hearts_5.png</Source>
+      <Name>Resources\Hearts_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Hearts_5.xnb</Output>
+      <Time>2017-09-02T20:42:12.3628834+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Hearts_6.png</Source>
+      <Name>Resources\Hearts_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Hearts_6.xnb</Output>
+      <Time>2017-09-02T20:42:12.3708907+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Hearts_7.png</Source>
+      <Name>Resources\Hearts_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Hearts_7.xnb</Output>
+      <Time>2017-09-02T20:42:12.3778969+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Hearts_8.png</Source>
+      <Name>Resources\Hearts_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Hearts_8.xnb</Output>
+      <Time>2017-09-02T20:42:12.3849046+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Hearts_9.png</Source>
+      <Name>Resources\Hearts_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Hearts_9.xnb</Output>
+      <Time>2017-09-02T20:42:12.3909091+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Hearts_jack.png</Source>
+      <Name>Resources\Hearts_jack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Hearts_jack.xnb</Output>
+      <Time>2017-09-02T20:42:12.3308524+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Hearts_queen.png</Source>
+      <Name>Resources\Hearts_queen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Hearts_queen.xnb</Output>
+      <Time>2017-09-02T20:42:12.33886+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Spades_10.png</Source>
+      <Name>Resources\Spades_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Spades_10.xnb</Output>
+      <Time>2017-09-02T20:42:12.3258472+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Spades_2.png</Source>
+      <Name>Resources\Spades_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Spades_2.xnb</Output>
+      <Time>2017-09-02T20:42:12.3458665+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Spades_3.png</Source>
+      <Name>Resources\Spades_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Spades_3.xnb</Output>
+      <Time>2017-09-02T20:42:12.3528823+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Spades_4.png</Source>
+      <Name>Resources\Spades_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Spades_4.xnb</Output>
+      <Time>2017-09-02T20:42:12.3588799+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Spades_5.png</Source>
+      <Name>Resources\Spades_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Spades_5.xnb</Output>
+      <Time>2017-09-02T20:42:12.3648853+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Spades_6.png</Source>
+      <Name>Resources\Spades_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Spades_6.xnb</Output>
+      <Time>2017-09-02T20:42:12.3728923+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Spades_7.png</Source>
+      <Name>Resources\Spades_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Spades_7.xnb</Output>
+      <Time>2017-09-02T20:42:12.3799+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Spades_8.png</Source>
+      <Name>Resources\Spades_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Spades_8.xnb</Output>
+      <Time>2017-09-02T20:42:12.3869053+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Spades_9.png</Source>
+      <Name>Resources\Spades_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Spades_9.xnb</Output>
+      <Time>2017-09-02T20:42:12.392911+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Spades_jack.png</Source>
+      <Name>Resources\Spades_jack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Spades_jack.xnb</Output>
+      <Time>2017-09-02T20:42:12.3328546+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Spades_queen.png</Source>
+      <Name>Resources\Spades_queen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\Spades_queen.xnb</Output>
+      <Time>2017-09-02T20:42:12.3408637+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\GameFont.spritefont</Source>
+      <Name>Resources\GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\GameFont.xnb</Output>
+      <Time>2017-09-10T13:10:57.936415+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\TitleFont.spritefont</Source>
+      <Name>Resources\TitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\TitleFont.xnb</Output>
+      <Time>2017-09-10T19:28:17.3521078+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\ButtonFont.spritefont</Source>
+      <Name>Resources\ButtonFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\Resources\ButtonFont.xnb</Output>
+      <Time>2017-09-12T13:12:25.713606+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E405E393-B5D8-4E57-B128-59D62290BC7E}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Linus\documents\visual studio 2015\Projects\TestProject\TestProject\TestProject\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-09-02T15:44:03.2714386+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
